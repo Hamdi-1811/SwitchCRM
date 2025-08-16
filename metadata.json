@@ -1,0 +1,5 @@
+{
+  "name": "Switch CRM",
+  "description": "A simple CRM dashboard that uses the Gemini API to provide AI-powered sales strategy suggestions for client pipelines.",
+  "requestFramePermissions": []
+}
